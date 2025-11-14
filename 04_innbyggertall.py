@@ -1,3 +1,11 @@
+"""
+
+Innbyggertall i ulike land.
+Bendik Spikkerud
+2025 11 14
+
+"""
+
 data = {
     "Norge": ["Oslo", 0.634],
     "England": ["London", 8.982],

@@ -1,3 +1,11 @@
+"""
+
+Alder i gitt år basert på fødselsår.
+Bendik Spikkerud
+2025 11 14
+
+"""
+
 alder = int(input("Hvilket år er du født? "))
 år = 2024  # Året det skal regnes ut alder i.
 

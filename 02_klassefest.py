@@ -1,3 +1,11 @@
+"""
+
+Fordeling av pizza på klassefest.
+Bendik Spikkerud
+2025 11 14
+
+"""
+
 antall_elever = int(input("Skriv inn antall elever: "))
 elever_per_pizza = 4  # Hvor mange elever hver pizza dekker.
 

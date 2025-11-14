@@ -1,3 +1,11 @@
+"""
+
+Konverter grader til radianer.
+Bendik Spikkerud
+2025 11 14
+
+"""
+
 import numpy as np
 
 

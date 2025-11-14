@@ -1,3 +1,11 @@
+"""
+
+Areal og omkrets av en figur bestående av en halvsirkel og en trekant.
+Bendik Spikkerud
+2025 11 14
+
+"""
+
 import math
 
 

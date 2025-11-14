@@ -1,3 +1,11 @@
+"""
+
+plotting av en matematisk funksjon.
+Bendik Spikkerud
+2025 11 14
+
+"""
+
 import numpy as np
 import matplotlib.pyplot as plt
 
